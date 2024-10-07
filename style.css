@@ -2,7 +2,7 @@
  --fundo: #c0c0c0cb;
  --cor-frente: #000080;
  --cor-verso: #006400;
- --destaque: #B22222;
+ --destaque: #c94e15;
  --preto: #000000;
  --branco: #ffffff;
 }
@@ -14,5 +14,5 @@ background-color: var(--fundo);
 footer{
  position: fixed;
  bottom: 0;
- background-color: var(--cor-verso);
+ background-color: var(--destaque);
 }
