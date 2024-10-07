@@ -14,7 +14,7 @@ background-color: var(--fundo);
 footer{
  position: fixed;
  bottom: 0;
- background-color: var(--destaque);
- color: var(--cor-verso);
+ background-color: var(--preto);
+ color: var(--branco);
  width: 100%;
 }
