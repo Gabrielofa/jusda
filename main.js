@@ -22,7 +22,7 @@ function CriaCartao (categoria, pergunta, resposta){
         
     }
 
-cartao.addEventListener('click'ViraCartao)
+cartao.addEventListener('click', ViraCartao)
 
 
     container.appendChild(cartao)
