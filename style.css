@@ -12,6 +12,13 @@ background-color: var(--fundo);
 margin: 0%;
 }
 
+header{
+    background-color: var(--preto)
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
 footer{
  position: fixed;
  bottom: 0;
@@ -20,3 +27,4 @@ footer{
  width: 100%;
  text-align: center;
 }
+
