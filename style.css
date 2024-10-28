@@ -14,7 +14,7 @@ margin: 0%;
 
 header{
     background-color: var(--preto)
-    display flex;
+    display: flex;
     justify-content: space-around;
     padding: 2rem;
 }
